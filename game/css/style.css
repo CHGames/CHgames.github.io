@@ -1,0 +1,36 @@
+h1 {
+    color: #FF0000;
+    font-size: 40px;
+    font-family: Impact
+}
+h2 {
+    color: #FF0000;
+    font-size: 40px;
+    font-family: Impact
+}
+
+body {background-image: url('http://www.hdwallpapers.in/walls/ninja_gaiden_3-wide.jpg');
+background-size: cover;
+color: #00E600;
+font-size: 20px;
+}
+p {
+font-size: 25px
+}
+
+li {
+  color: #00E600;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+button {
+  background-color: black;
+  font-size: 40px;
+  color: red;
+  border: 2px dotted white;
+}
+
+#buttondiv {
+  text-align: center;
+}
