@@ -20,7 +20,20 @@ alert("Well done, you have survived... for now.");
   else {
     alert("You sliced his head off, well done you are still alive");
     var q3 = prompt("You see the evil apprentice, do you sneak up from behind or go in stupidly?");
-    if (p3==="")
+    if (q3==="go in stupidly");{
+      alert("don't be stupid, you died.")
+    
+  }
+  else {
+    alert("You sneaked up and stabbed your sword into his back, yay!");
+    var q4 = prompt("There he is, the evil samurai boss, do you chose to fight him or get him drunk then kill him?");
+    if (q4==="fight him");{
+      alert("he overpowers you because of his brute strength and you die.")
+    }
+    else {
+      alert("he got drunk and you killed him. Congrats, you won the game :D.")
+    }
+  }
   }
 }
 
